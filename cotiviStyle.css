@@ -1,0 +1,212 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+  font-family: 'Roboto', sans-serif;
+}
+header{
+    background-color: purple;
+}
+
+img{
+    background-color: purple;
+
+}
+
+div{
+    display: inline-block;
+}
+#title{
+    padding-right: 50px;
+    background-color: purple;
+    width:50%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size:x-large;
+    padding-top:30px;
+    color: beige;
+
+
+}
+
+#box{
+    height: 45%;
+    width: 100%;
+    margin-left:15%;
+    background-color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 50px;
+}
+
+section{
+    background-color: purple;
+}
+.container{
+   
+}
+#box2{
+    height: 25%;
+    width:25%;
+}
+
+#intro {
+    height: 100%;
+    width:100%;
+    background-image: url(https://th.bing.com/th/id/OIP.pKdGY4GOZNSSsEW0G1QpkwAAAA?pid=ImgDet&rs=1);
+    background-repeat: repeat-x;
+    background-position: center right;
+    background-size: auto 100%;
+    background-color: #35176e;
+    color: white;
+  }
+  
+  #white-box {
+    width: 50%;
+    background: white;
+    padding: 20px;
+    margin-top: 25px;
+  }
+  
+  #white-box small {
+    color: #7f7f7f;
+  }
+  
+  #white-box h2 {
+    color: #31006f;
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  
+  #white-box p {
+    color: #ec008c;
+  }
+  
+  section {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+  
+  .container {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .w50 {
+    width: 50%;
+  }
+  
+  #whoweare {
+    background-image: url(https://media.istockphoto.com/id/511061090/photo/business-office-building-in-london-england.jpg?s=612x612&w=0&k=20&c=nYAn4JKoCqO1hMTjZiND1PAIWoABuy1BwH1MhaEoG6w=);
+
+    background-repeat: no-repeat;
+    background-size: 400px auto;
+    background-position: bottom right;
+  }
+  
+  #whoweare h2 {
+    color: #2e3192;
+    background-color: white;
+  }
+  
+  section p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .btn {
+    border: 1px solid #2e3192;
+    padding: 15px 20px;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  .btn:hover {
+    background-color: #ec008c;
+    color: white;
+  }
+
+  .btn2:hover {
+    background-color: #ec008c;
+    padding: 20px;
+    color: white;
+    border:;
+  }
+  
+  #search{
+    background-color: white;
+  }
+  #work{
+    text-align: center;
+    background-color: aqua;
+    color: white;
+  }
+  #work .btn2{
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    border: 1px solid #2e3192;
+    padding: 15px 20px;
+  }
+
+  #parallax{
+  background-image: url(https://s17401.pcdn.co/wp-content/uploads/2018/04/002.jpg);  
+  height: 400px;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+
+  }
+  #jointheteam ul{
+    text-align: left;
+    list-style-type: none;
+    margin-right: 60px;
+    margin-left: 60px;
+  
+  }
+
+  #jointheteam h5{
+    margin-top: 20px;
+  }
+  #jointheteam ul li a{
+    text-decoration: none;
+    color: #ec008c;
+    display: inline-block;
+    padding-top: 20pxpx;
+    padding-bottom: 15px;
+    border-bottom: 1px solid white;
+  }
+  
+  .fa-greater-than{
+    float:right;
+    width:100%
+    color: #ec008c;
+  }
+  #jointheteam ul li a{
+    color: #ec008c;
+  }
+
+  #search{
+    text-align: center;
+
+    background-image: url(C:\Users\UIT SOLUTION\Documents\CotImages\join.png );
+    background-position: bottom;
+  }
+  search a:hover{
+    color:#ec008c
+  }
+
+  #corporate{
+    background-color: aliceblue;
+  }
+  #corporate .div{
+    display: inline-block;
+  }
+
+/*overflow:auto hidden scroll */
